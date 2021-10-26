@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![profile](https://github.com/hyacinthengoma/hyacinthengoma/blob/main/github-metrics.svg)
+![Metrics](https://github.com/hyacinthengoma/hyacinthengoma/blob/main/github-metrics.svg)
+
