@@ -1,7 +1,7 @@
 ### Hi there 👋
 Portfolio : https://hyacinthengoma.fr
 
-<img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" width="25px" />
+<img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" width="100px" />
 <!--
 **hyacinthengoma/hyacinthengoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
