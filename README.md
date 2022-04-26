@@ -1,8 +1,10 @@
 ### Hi there 👋
 Portfolio : https://hyacinthengoma.fr
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
 ![Symfony](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original-wordmark.svg)
-<img src ="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" width:"25px" background:"white" />
+<img src ="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" width:"25px"/>
 
            
           
