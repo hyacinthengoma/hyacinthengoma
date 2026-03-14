@@ -129,10 +129,4 @@ const hyacinthe = {
 
 <br/>
 
-**✦ Merci de visiter mon profil ✦**
-
-[![Profile Views](https://komarev.com/ghpvc/?username=hyacinthengoma&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/hyacinthengoma)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
-
 </div>
